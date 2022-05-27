@@ -1,17 +1,13 @@
 {
-  "name": "todolist",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "antd": "^3.11.6",
     "axios": "^0.18.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2",
-    "react-transition-group": "^2.5.2",
-    "redux": "^4.0.1",
-    "redux-saga": "^0.16.2",
-    "redux-thunk": "^2.3.0"
+    "react-transition-group": "^2.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
